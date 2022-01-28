@@ -4,6 +4,9 @@ NoPixel-based casino generators hacking minigame
 # Acknowledgment
 I'm not entirely sure the origin of this code, but shoutout to [sharkiller](https://github.com/sharkiller/nopixel_minigame) for hosting the javascript files on their github. This is simply a repackaging of those files into a Fivem NUI resource.
 
+
+![](https://i.imgur.com/FxXD5kA.png)
+
 # Usage
 ```lua
 exports['casinohack']:OpenHackingGame(function(success)
