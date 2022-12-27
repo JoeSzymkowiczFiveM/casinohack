@@ -20,5 +20,5 @@ end, 20)
 
 The first argument in this example represents the number of seconds that the player will have to complete the minigame. By default, the game will allow the player to make 2 incorrect attempts, still allowing the player to continue, and then fail the play on the third incorrect choice.
 
-##### Qbus.xyz Discord:
-[Discord](https://discord.gg/jTsrKaV6As)
+## Discord
+[Joe Szymkowicz FiveM Development](https://discord.gg/5vPGxyCB4z)
